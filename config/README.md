@@ -11,7 +11,7 @@ Config vars are basically the variables which configure or modify bot to functio
 1. `API_ID` : 24835491
 2. `API_HASH`  : 04ee66f0079a9b11eefb33a89289899e
 3. `BOT_TOKEN` : 7647380005:AAFMb9SplVG4wox2Bzg6vtcYZhcrYl_gDTQ
-4. `MONGO_DB_URI` : Get mongo db [from here.](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/mongodb)
+4. `MONGO_DB_URI` : mongodb+srv://karan69:karan69@cluster0.gfw7e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 5. `LOGGER_ID` : -1002147955274
 6. `OWNER_ID` : 5629555417
 7. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [@ChampuStringBot](http://t.me/ChampuStringBot) in Telegram.
