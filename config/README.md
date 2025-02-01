@@ -14,7 +14,7 @@ Config vars are basically the variables which configure or modify bot to functio
 4. `MONGO_DB_URI` : mongodb+srv://karan69:karan69@cluster0.gfw7e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 5. `LOGGER_ID` : -1002147955274
 6. `OWNER_ID` : 5629555417
-7. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [@ChampuStringBot](http://t.me/ChampuStringBot) in Telegram.
+7. `STRING_SESSION` : BQF69aMAugIyI-ek0H8E-6xv4cHIm99PCjH7UARwkCb8OK--bakUdSwtcyBTqNs9_7_plpHTeArSkWqPGkOKtx_7o2NBIZqA07xysupksYRJz6qUX7O2bOHhvDZqXNF5vzD_A5xshUeGqiNLNuzN3AiNEcScKN6Pd7mX3hvoWSCpc8XBTcvqwQg0X5I7K4MjAhdEPMuTo1iB1_-49Nu6gowPkVzMinoR6t6NS8TiJEnTIUzE25JKTUxsQ58-fApwA1zuNBq4zexSJny05_mUbmSIImQQ2zKoXFWCrU5ESStb1zFOt4D5PZ5CtCQY9pqGw-CkhcJd-elB0BFdYLFpx-6N1DyDtwAAAAFPjDLZAA
 
 
 ## Non-Mandatory Vars
