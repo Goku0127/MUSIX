@@ -8,12 +8,12 @@ Config vars are basically the variables which configure or modify bot to functio
 
 - These are the minimum required vars need to setup to make Music Bot functional.
 
-1. `API_ID` : Get it from my.telegram.org 
-2. `API_HASH`  : Get it from my.telegram.org 
-3. `BOT_TOKEN` : Get it from [@Botfather](http://t.me/BotFather) in Telegram
+1. `API_ID` : 24835491
+2. `API_HASH`  : 04ee66f0079a9b11eefb33a89289899e
+3. `BOT_TOKEN` : 7647380005:AAFMb9SplVG4wox2Bzg6vtcYZhcrYl_gDTQ
 4. `MONGO_DB_URI` : Get mongo db [from here.](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/mongodb)
-5. `LOGGER_ID` : You'll need a Private Group ID for this. Supergroup Needed with id starting from -100 
-6. `OWNER_ID` : Your Owner ID for managing your bot.
+5. `LOGGER_ID` : -1002147955274
+6. `OWNER_ID` : 5629555417
 7. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [@ChampuStringBot](http://t.me/ChampuStringBot) in Telegram.
 
 
@@ -91,11 +91,11 @@ Config vars are basically the variables which configure or modify bot to functio
 - You can change images which are used in Champu Music Bot.
 - You can generate telegaph links from [@TheKittyXD_Bot](http://t.me/TheKittyXD_Bot) and use it here.
 
-1. `START_IMG_URL` : Image which comes on /start command in private messages of bot.
-2. `PING_IMG_URL` : Image which comes on /ping command of bot.
-3. `PLAYLIST_IMG_URL` : Image which comes on /play command of bot. 
-4. `GLOBAL_IMG_URL` : Image which comes on /stats command of bot. 
-5. `STATS_IMG_URL` : Image which comes on /stats command of bot. 
+1. `START_IMG_URL` : https://files.catbox.moe/2nkb4u.jpg
+2. `PING_IMG_URL` : https://envs.sh/mE4.jpg
+3. `PLAYLIST_IMG_URL` : https://files.catbox.moe/snhh5q.jpg
+4. `GLOBAL_IMG_URL` : https://files.catbox.moe/fgamf7.jpg
+5. `STATS_IMG_URL` :  https://files.catbox.moe/fgamf7.jpg
 6. `TELEGRAM_AUDIO_URL` : This image comes when someone plays audios from telegram. 
 7. `TELEGRAM_VIDEO_URL` : This image comes when someone plays videos from telegram. 
 8. `STREAM_IMG_URL` : his image comes when someone plays m3u8 or index links.
