@@ -8,17 +8,17 @@ load_dotenv()
 
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("24835491"))
+API_HASH = getenv("04ee66f0079a9b11eefb33a89289899e")
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("7647380005:AAFMb9SplVG4wox2Bzg6vtcYZhcrYl_gDTQ")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "BOTHUN")
+BOT_USERNAME = getenv("@Hyuga_Music_Bot" , "BOTHUN")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("mongodb+srv://karan69:karan69@cluster0.gfw7e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", None)
 
 CLEANMODE_DELETE_MINS = int(
     getenv("CLEANMODE_MINS", 5)
@@ -52,11 +52,11 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
-LOGGER_ID = int(getenv("LOGGER_ID", None))
+LOGGER_ID = int(getenv("-1002147955274", None))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", 7298401756).split())
+    map(int, getenv("OWNER_ID", 5629555417).split())
 )  # Input type must be interger
 
 ## Fill these variables if you're deploying on heroku.
@@ -76,10 +76,10 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/jaksjsjsksk"
+    "SUPPORT_CHANNEL", "https://t.me/Hyuga_update"
 )  # Example:- https://t.me/akaChampu
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/momomomomomomomomomomomomom1"
+    "SUPPORT_GROUP", "https://t.me/slavesupport"
 )  # Example:- https://t.me/TheChampuClub
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", True)
@@ -133,7 +133,8 @@ SET_CMDS = getenv("SET_CMDS", False)
 
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @ChampuStringBot
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("BQF69aMAugIyI-ek0H8E-6xv4cHIm99PCjH7UARwkCb8OK--bakUdSwtcyBTqNs9_7_plpHTeArSkWqPGkOKtx_7o2NBIZqA07xysupksYRJz6qUX7O2bOHhvDZqXNF5vzD_A5xshUeGqiNLNuzN3AiNEcScKN6Pd7mX3hvoWSCpc8XBTcvqwQg0X5I7K4MjAhdEPMuTo1iB1_-49Nu6gowPkVzMinoR6t6NS8TiJEnTIUzE25JKTUxsQ58-fApwA1zuNBq4zexSJny05_mUbmSIImQQ2zKoXFWCrU5ESStb1zFOt4D5PZ5CtCQY9pqGw-CkhcJd-elB0BFdYLFpx-6N1DyDtwAAAAFPjDLZAA
+", None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -169,27 +170,27 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://telegra.ph/file/d3e855bc548a1ce9649e7.jpg",
+    "https://envs.sh/OEI.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/33591be403ae3eaae7217.jpg",
+    "https://envs.sh/OE_.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://telegra.ph/file/b860df3e144c2208a7e5a.jpg",
+    "https://envs.sh/mE4.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://telegra.ph/file/a9d91437d795b0ae55af8.jpg",
+    "https://envs.sh/mEU.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://telegra.ph/file/a9d91437d795b0ae55af8.jpg",
+    "https://envs.sh/mEU.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
@@ -204,7 +205,7 @@ TELEGRAM_VIDEO_URL = getenv(
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://telegra.ph/file/62f26ca46103beee9a0d5.jpg",
+    "https://envs.sh/mdj.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
